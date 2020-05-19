@@ -5,23 +5,23 @@
 
   <p align="center">
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: 
-    <a href="https://hashirshoaeb.github.io">hashirshoaeb.github.io</a>
+    <a href="https://abhinavkorpal.github.io/home/">abhinavkorpal.github.io</a>
     <br />
     <br />
-    <a href="https://hashirshoaeb.com">About Me</a>
+    <a href="https://abhinavkorpal.github.io/home/">About Me</a>
     ·
-    <a href="https://github.com/hashirshoaeb/home/issues">Report Bug</a>
+    <a href="https://github.com/abhinavkorpal/home/issues">Report Bug</a>
     ·
-    <a href="https://github.com/hashirshoaeb/home/issues">Request Feature</a>
+    <a href="https://github.com/abhinavkorpal/home/issues">Request Feature</a>
   </p>
 </p>
 
-![GitHub contributors](https://img.shields.io/github/contributors/hashirshoaeb/home?color=ffcc66&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/hashirshoaeb/home?color=ffcc66&style=for-the-badge)
-[![GitHub forks](https://img.shields.io/github/forks/hashirshoaeb/home?style=for-the-badge)](https://github.com/hashirshoaeb/star_book/network)
-[![GitHub issues](https://img.shields.io/github/issues/hashirshoaeb/home?color=ffcc66&style=for-the-badge)](https://github.com/hashirshoaeb/star_book/issues)
-[![GitHub license](https://img.shields.io/github/license/hashirshoaeb/home?style=for-the-badge)](https://github.com/hashirshoaeb/home/blob/master/LICENSE)
-[![Twitter Follow](https://img.shields.io/twitter/follow/hashirshoaeb?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/hashirshoaeb)
+![GitHub contributors](https://img.shields.io/github/contributors/abhinavkorpal/home?color=ffcc66&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/abhinavkorpal/home?color=ffcc66&style=for-the-badge)
+[![GitHub forks](https://img.shields.io/github/forks/abhinavkorpal/home?style=for-the-badge)](https://github.com/abhinavkorpal/star_book/network)
+[![GitHub issues](https://img.shields.io/github/issues/abhinavkorpal/home?color=ffcc66&style=for-the-badge)](https://github.com/abhinavkorpal/star_book/issues)
+[![GitHub license](https://img.shields.io/github/license/abhinavkorpal/home?style=for-the-badge)](https://github.com/abhinavkorpal/home/blob/master/LICENSE)
+[![Twitter Follow](https://img.shields.io/twitter/follow/abhinavkorpal?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/abhinavkorpal)
 
 [![Site preview](/public/social-image.png)](https://hashirshoaeb.github.io/)
 
