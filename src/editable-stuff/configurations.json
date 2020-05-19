@@ -2,51 +2,57 @@
   "backgroundType": "gradient",
   "plainBackgroundMode": "daylight",
   "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
-  "FirstName": "Hashir",
+  "FirstName": "Abhinav",
   "MiddleName": "",
-  "LastName": "Shoaib",
-  "devDesc": "| Engineer | Programmer | Web Developer | Photographer | Athlete | Artist ",
+  "LastName": "Korpal",
+  "devDesc": "| Engineer | Programmer | DevOps | Infrastructure as Code | SRE | Security ",
   "icons": [
     {
       "id": 0,
       "image": "fa-github",
-      "url": "https://github.com/hashirshoaeb",
+      "url": "https://github.com/abhinavkorpal",
       "style": "socialicons"
     },
     {
       "id": 1,
       "image": "fa-facebook",
-      "url": "https://www.facebook.com/hashirshoaeb",
+      "url": "https://www.facebook.com/thesupermankorpal/",
       "style": "socialicons"
     },
     {
       "id": 2,
       "image": "fa-instagram",
-      "url": "https://www.instagram.com/hashirshoaeb/",
+      "url": "https://www.instagram.com/thesupermankorpal/",
       "style": "socialicons"
     },
     {
       "id": 3,
       "image": "fa-linkedin",
-      "url": "https://www.linkedin.com/in/hashirshoaeb/",
+      "url": "https://www.linkedin.com/in/abhinavkorpal/",
       "style": "socialicons"
     },
     {
       "id": 4,
       "image": "fa-twitter",
-      "url": "https://www.twitter.com/hashirshoaeb/",
+      "url": "https://twitter.com/abhinavkorpal",
+      "style": "socialicons"
+    },
+    {
+      "id": 5,
+      "image": "fa-medium",
+      "url": "https://medium.com/@abhinavkorpal",
       "style": "socialicons"
     }
   ],
   "aboutHeading": "About Me",
   "showInstaProfilePic": true,
   "instaLink": "https://www.instagram.com/",
-  "instaUsername": "hashirshoaeb",
+  "instaUsername": "thesupermankorpal",
   "instaQuerry": "/?__a=1",
-  "aboutDescription": "A final year Computer Engineer from NUST CEME, Pakistan with 3+ years experience in web development and passion to teach machines think. I’m currently the Vice President of student body at Emerging Technologies Research Lab(ETL) and a former Intern at RiseTech.",
+  "aboutDescription": "A Computer Engineer from India with 4+ years experience in DevOps Practice, Infrastructure as Code, SRE and Security. Digital native, programmer and Back-end developer and Web Programmer. Working on AI & NLP, DevOps practice and building spaCy . ⚡ Requests: HTTP for Humans.",
   "projectHeading": "Recent Projects",
   "gitHubLink": "https://api.github.com/users/",
-  "gitHubUsername": "hashirshoaeb",
+  "gitHubUsername": "abhinavkorpal",
   "gitHubQuerry": "/repos?sort=updated&direction=desc",
   "projectsLength": 4,
   "showNavigationbar": true,

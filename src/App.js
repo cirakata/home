@@ -20,7 +20,6 @@ const Home = () => {
     <Fragment>
       <MainBody />
       <AboutMe />
-      <Project />
     </Fragment>
   );
 };
