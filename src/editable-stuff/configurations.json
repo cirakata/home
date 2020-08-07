@@ -2,9 +2,9 @@
   "backgroundType": "gradient",
   "plainBackgroundMode": "daylight",
   "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
-  "FirstName": "Abhinav",
+  "FirstName": "nitishjeet7",
   "MiddleName": "",
-  "LastName": "Korpal",
+  "LastName": "",
   "devDesc": "| Engineer | Programmer | DevOps | Infrastructure as Code | SRE | Security ",
   "icons": [
     {
@@ -35,12 +35,6 @@
       "id": 4,
       "image": "fa-twitter",
       "url": "https://twitter.com/abhinavkorpal",
-      "style": "socialicons"
-    },
-    {
-      "id": 5,
-      "image": "fa-medium",
-      "url": "https://medium.com/@abhinavkorpal",
       "style": "socialicons"
     }
   ],
